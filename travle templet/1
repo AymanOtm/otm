@@ -1,0 +1,27 @@
+<div class="container">
+        <div class="about-us">
+            <div class="info-box">
+                <h2>About Us</h2>
+                <p>
+                    We're always happy to share with you the most beautiful moments of
+                    the most pleasant travels... Why us? Because we want your happiness.
+                </p>
+                <div class="image-box">
+                    <img src="images/013.png" alt="Traveler" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="about-us">
+            <div class="info-box">
+                <h2>About Us</h2>
+<p>We're always happy to share with you the most beautiful moments of
+    the most pleasant travels... Why us? Because we want your happiness.</p>            
+</div>
+            <div class="image-box">
+                <img src="images/011.jpg" alt="" srcset="">
+            </div>
+        </div>
+    </div>
